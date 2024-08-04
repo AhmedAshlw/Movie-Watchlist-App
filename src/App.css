@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+.not-completed {
+  color: blue;
+}
